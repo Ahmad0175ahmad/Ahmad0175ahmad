@@ -1,5 +1,5 @@
 # 💫 About Me:
-⭐ AI & Machine Learning Engineer passionate about building intelligent and scalable solutions.<br>⭐ Working on AI, Machine Learning, and Deep Learning to solve real-world problems.<br>⭐ Proficient in Python, developing robust models and production-ready systems.<br>⭐ Experienced with Microsoft Azure, leveraging cloud infrastructure for AI solutions.<br>⭐ Skilled in Azure DevOps, implementing CI/CD pipelines and automation workflows.<br>⭐ Hands-on with Azure AI & ML Services for deploying, managing, and optimizing models.    
+⭐ AI & Machine Learning Engineer passionate about building intelligent and scalable solutions.<br>⭐ Working on AI, Machine Learning, and Deep Learning to solve real-world problems.<br>⭐ Proficient in Python, developing robust models and production-ready systems.<br>⭐ Experienced with Microsoft Azure, leveraging cloud infrastructure for AI solutions.<br>⭐ Skilled in Azure DevOps, implementing CI/CD pipelines and automation workflows.<br>⭐ Hands-on with Azure AI & ML Services for deploying, managing, and optimizing models.⭐EDUCATION:<br>⭐Bachelor's In Computer Science<br>⭐Quaid-e-Azam University    
 
 
 
